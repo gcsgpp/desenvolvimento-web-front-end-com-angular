@@ -31,7 +31,7 @@ Para utilizar o código-fonte do livro e desenvolver em Angular você precisa, a
 3. **Editor de textos ou IDE**: atualmente há muitas opções, mas destaco estas:
    1. **VisualStudioCode**: disponível em [https://code.visualstudio.com/](https://code.visualstudio.com/)
    2. **Nodepad++**: disponível em [https://notepad-plus-plus.org/](https://notepad-plus-plus.org/) 
-   3. **PHPStorm **ou **WebStorm**: disponíveis em [https://www.jetbrains.com](https://www.jetbrains.com)
+   3. **PHPStorm** ou **WebStorm**: disponíveis em [https://www.jetbrains.com](https://www.jetbrains.com)
 
 ## Visão geral
 
